@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full time/Part-time
 - 🌱 I’m currently learning Node Js and react
 - 💞️ I’m looking to collaborate on Front-End Web Devlopment
-- 📫 How to reach me rbn9540@gmail.com or DM on Instagram- https://www.instagram.com/rawal_0304/
+- 📫 How to reach me ROBINRAWAL81@GMAIL.COM
 
 <!---
 robinrwl/robinrwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
